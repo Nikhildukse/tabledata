@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/tabledata/static/css/main.38004a7a.css",
+    "main.js": "/tabledata/static/js/main.059433e5.js",
+    "static/js/787.95626048.chunk.js": "/tabledata/static/js/787.95626048.chunk.js",
+    "static/media/Womenc.jpg": "/tabledata/static/media/Womenc.33d0df283fd51df454a8.jpg",
+    "static/media/Women.jpg": "/tabledata/static/media/Women.e73cb6532de4dc443df2.jpg",
+    "static/media/Mymen.jfif": "/tabledata/static/media/Mymen.94de56abcba82cfe6890.jfif",
+    "static/media/Mywomen2.jpg": "/tabledata/static/media/Mywomen2.a98a130f3305d400e8fa.jpg",
+    "static/media/Mymen3.jpg": "/tabledata/static/media/Mymen3.823242e4cbee8087b097.jpg",
+    "static/media/Womeng.jpg": "/tabledata/static/media/Womeng.b8bfd33c4435caf226b1.jpg",
+    "index.html": "/tabledata/index.html",
+    "main.38004a7a.css.map": "/tabledata/static/css/main.38004a7a.css.map",
+    "main.059433e5.js.map": "/tabledata/static/js/main.059433e5.js.map",
+    "787.95626048.chunk.js.map": "/tabledata/static/js/787.95626048.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38004a7a.css",
+    "static/js/main.059433e5.js"
+  ]
+}
